@@ -1,0 +1,10 @@
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/bin/Debug/netcoreapp2.0/EFBooksAndAuthors.deps.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/bin/Debug/netcoreapp2.0/EFBooksAndAuthors.runtimeconfig.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/bin/Debug/netcoreapp2.0/EFBooksAndAuthors.runtimeconfig.dev.json
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/bin/Debug/netcoreapp2.0/EFBooksAndAuthors.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/bin/Debug/netcoreapp2.0/EFBooksAndAuthors.pdb
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/obj/Debug/netcoreapp2.0/EFBooksAndAuthors.csproj.CoreCompileInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/obj/Debug/netcoreapp2.0/EFBooksAndAuthors.AssemblyInfoInputs.cache
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/obj/Debug/netcoreapp2.0/EFBooksAndAuthors.AssemblyInfo.cs
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/obj/Debug/netcoreapp2.0/EFBooksAndAuthors.dll
+/Users/pkrull/Documents/codingDojo/cohorts/tulsa_june_2018/cSharp/EFBooksAndAuthors/obj/Debug/netcoreapp2.0/EFBooksAndAuthors.pdb
